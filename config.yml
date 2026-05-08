@@ -1,0 +1,7 @@
+theme: minima
+title: Rida's Portfolio ✨
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
