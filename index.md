@@ -15,9 +15,3 @@ This project explores the drivers behind this decline by analysing factors such 
 ### Chart 1
 ![Chart 1](chart1.png)
 
-### Chart 2
-![Chart 2](chart2.png)
-
-### Chart 3
-![Chart 3](chart3.png)
-``
